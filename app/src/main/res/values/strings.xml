@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Acsi Piemonte Bike by G.Botta</string>
+    <string name="title_activity_calendario">CalendarioActivity</string>
+    <string name="tab_text_2">TO-CN</string>
+    <string name="tab_text_3">NO-VC-O</string>
+    <string name="action_settings">Reset</string>
+    <string name="section_format">Pagina : %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_Reg">Regolamento</string>
+</resources>
